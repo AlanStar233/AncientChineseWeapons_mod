@@ -1,0 +1,18 @@
+{
+  "forgemaker":1,
+  "defaults":{
+    "model": "minecraft:orientable",
+    "textures": {
+      "top": "minecraft:blocks/brick_slab_top",
+      "side": "minecraft:blocks/brick_slab_side",
+      "front": "minecraft:blocks/brick_slab_side"
+    }
+  },
+  "variants": {
+    "facing=west": [{ "y":270}],
+    "facing=south": [{"y":180}],
+    "facing=east": [{"y":90}],
+    "facing=north": [{}],
+    "inventory": [{"transform": "forge:default-block"}]
+  }
+}

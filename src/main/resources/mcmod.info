@@ -1,0 +1,18 @@
+[
+{
+  "modid": "ancientchineseweapons",
+  "name": "Ancient Chinese Weapons",
+  "description": "We restored ancient Chinese weapons and added a lot of interesting elements. Hope you will like it.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Alan__Star"
+  ],
+  "credits": "Thanks for the great idea from the chatting group from Minecraft bar. And the help of the owner minecraft bar , CityOfSkyTCD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
