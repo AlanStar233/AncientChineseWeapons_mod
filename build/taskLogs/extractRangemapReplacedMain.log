@@ -1,0 +1,28 @@
+Unsupposrted library path: D:\develop_mod\1.12.2mod\forge-1.12.2-14.23.2.2611-mdk-book\build\classes\api
+Unsupposrted library path: D:\develop_mod\1.12.2mod\forge-1.12.2-14.23.2.2611-mdk-book\build\resources\api
+Symbol range map extraction starting
+Processing 8 files
+startProcessing "alanstar/ancientchineseweapons/ancientchineseweapons.java" md5: 8cd1abfc2431cc5073c968a6b722f430
+endProcessing "alanstar/ancientchineseweapons/ancientchineseweapons.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/BlockRegistryHandler.java" md5: 6d5419eac151aba2fb6d58c7d4ee4c00
+endProcessing "alanstar/ancientchineseweapons/block/BlockRegistryHandler.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/DirtBlock.java" md5: da774aab7f636a4feecbaecd9bf1d21f
+endProcessing "alanstar/ancientchineseweapons/block/DirtBlock.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/HardenedClayBrick.java" md5: 4a5548125cb3570f15fcb2cc212fee73
+endProcessing "alanstar/ancientchineseweapons/block/HardenedClayBrick.java"
+
+startProcessing "alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java" md5: 02ea6a2d6b41b4f4a39823cecf7dd4b6
+endProcessing "alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java"
+
+startProcessing "alanstar/ancientchineseweapons/event/EventHandler.java" md5: 3a1b13f3483bbdcadf0ec59fce251b0f
+endProcessing "alanstar/ancientchineseweapons/event/EventHandler.java"
+
+startProcessing "alanstar/ancientchineseweapons/item/ItemDirtBall.java" md5: 9129b3f47e218f8a1166041cc6d5f559
+endProcessing "alanstar/ancientchineseweapons/item/ItemDirtBall.java"
+
+startProcessing "alanstar/ancientchineseweapons/item/ItemRegistryHandler.java" md5: e372572cbfac9baba41ee8ff714ebf75
+endProcessing "alanstar/ancientchineseweapons/item/ItemRegistryHandler.java"
+

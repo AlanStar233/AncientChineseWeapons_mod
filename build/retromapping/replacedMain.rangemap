@@ -1,0 +1,284 @@
+Unsupposrted library path: D:\develop_mod\1.12.2mod\forge-1.12.2-14.23.2.2611-mdk-book\build\classes\api
+Unsupposrted library path: D:\develop_mod\1.12.2mod\forge-1.12.2-14.23.2.2611-mdk-book\build\resources\api
+Symbol range map extraction starting
+Processing 8 files
+startProcessing "alanstar/ancientchineseweapons/ancientchineseweapons.java" md5: 8cd1abfc2431cc5073c968a6b722f430
+@|alanstar/ancientchineseweapons/ancientchineseweapons.java|8|38|alanstar.ancientchineseweapons|package|alanstar.ancientchineseweapons|(file)
+Class Start: alanstar.ancientchineseweapons.ancientchineseweapons
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|351|354|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|355|360|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|363|384|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|385|390|MODID|field|alanstar.ancientchineseweapons.ancientchineseweapons|MODID
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|392|396|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|399|420|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|421|425|NAME|field|alanstar.ancientchineseweapons.ancientchineseweapons|NAME
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|427|434|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|437|458|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|459|466|VERSION|field|alanstar.ancientchineseweapons.ancientchineseweapons|VERSION
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|481|502|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|529|535|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|529|535|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|536|541|MODID|field|alanstar.ancientchineseweapons.ancientchineseweapons|MODID|
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|593|599|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|593|599|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|600|604|NAME|field|alanstar.ancientchineseweapons.ancientchineseweapons|NAME|
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|658|664|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|658|664|String|class|java.lang.String|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|665|672|VERSION|field|alanstar.ancientchineseweapons.ancientchineseweapons|VERSION|
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|702|708|Logger|class|org.apache.logging.log4j.Logger|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|702|708|Logger|class|org.apache.logging.log4j.Logger|false
+   @|alanstar/ancientchineseweapons/ancientchineseweapons.java|709|715|logger|field|alanstar.ancientchineseweapons.ancientchineseweapons|logger|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|786|791|event|param|alanstar.ancientchineseweapons.ancientchineseweapons|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|723|735|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|752|759|preInit|method|alanstar.ancientchineseweapons.ancientchineseweapons|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|760|785|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|807|813|logger|field|alanstar.ancientchineseweapons.ancientchineseweapons|logger
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|816|821|event|param|alanstar.ancientchineseweapons.ancientchineseweapons|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|822|831|getModLog|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getModLog|()Lorg/apache/logging/log4j/Logger;
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|904|909|event|param|alanstar.ancientchineseweapons.ancientchineseweapons|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|847|859|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|876|880|init|method|alanstar.ancientchineseweapons.ancientchineseweapons|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|881|903|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|954|960|logger|field|alanstar.ancientchineseweapons.ancientchineseweapons|logger
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|961|965|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;Ljava/lang/Object;)V
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|986|992|Blocks|class|net.minecraft.init.Blocks|false
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|993|997|DIRT|field|net.minecraft.init.Blocks|DIRT
+      @|alanstar/ancientchineseweapons/ancientchineseweapons.java|998|1013|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : alanstar.ancientchineseweapons.ancientchineseweapons
+endProcessing "alanstar/ancientchineseweapons/ancientchineseweapons.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/BlockRegistryHandler.java" md5: 6d5419eac151aba2fb6d58c7d4ee4c00
+@|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|8|44|alanstar.ancientchineseweapons.block|package|alanstar.ancientchineseweapons.block|(file)
+Class Start: alanstar.ancientchineseweapons.block.BlockRegistryHandler
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|329|347|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|362|382|BlockRegistryHandler|class|alanstar.ancientchineseweapons.block.BlockRegistryHandler|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|411|420|DirtBlock|class|alanstar.ancientchineseweapons.block.DirtBlock|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|411|420|DirtBlock|class|alanstar.ancientchineseweapons.block.DirtBlock|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|421|431|DIRT_BLOCK|field|alanstar.ancientchineseweapons.block.BlockRegistryHandler|DIRT_BLOCK|
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|438|447|DirtBlock|class|alanstar.ancientchineseweapons.block.DirtBlock|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|488|505|HardenedClayBrick|class|alanstar.ancientchineseweapons.block.HardenedClayBrick|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|488|505|HardenedClayBrick|class|alanstar.ancientchineseweapons.block.HardenedClayBrick|false
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|506|525|HARDENED_CLAY_BRICK|field|alanstar.ancientchineseweapons.block.BlockRegistryHandler|HARDENED_CLAY_BRICK|
+   @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|532|549|HardenedClayBrick|class|alanstar.ancientchineseweapons.block.HardenedClayBrick|false
+   Method Start: onRegistry(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|639|644|event|param|alanstar.ancientchineseweapons.block.BlockRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|573|587|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|612|622|onRegistry|method|alanstar.ancientchineseweapons.block.BlockRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|623|631|Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|632|637|Block|class|net.minecraft.block.Block|false
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|662|676|IForgeRegistry|class|net.minecraftforge.registries.IForgeRegistry|false
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|677|682|Block|class|net.minecraft.block.Block|false
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|695|700|event|param|alanstar.ancientchineseweapons.block.BlockRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|701|712|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|734|742|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|743|753|DIRT_BLOCK|field|alanstar.ancientchineseweapons.block.BlockRegistryHandler|DIRT_BLOCK
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|774|782|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|alanstar/ancientchineseweapons/block/BlockRegistryHandler.java|783|802|HARDENED_CLAY_BRICK|field|alanstar.ancientchineseweapons.block.BlockRegistryHandler|HARDENED_CLAY_BRICK
+   Method End: onRegistry(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+Class End  : alanstar.ancientchineseweapons.block.BlockRegistryHandler
+endProcessing "alanstar/ancientchineseweapons/block/BlockRegistryHandler.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/DirtBlock.java" md5: da774aab7f636a4feecbaecd9bf1d21f
+@|alanstar/ancientchineseweapons/block/DirtBlock.java|8|44|alanstar.ancientchineseweapons.block|package|alanstar.ancientchineseweapons.block|(file)
+Class Start: alanstar.ancientchineseweapons.block.DirtBlock
+   @|alanstar/ancientchineseweapons/block/DirtBlock.java|285|294|DirtBlock|class|alanstar.ancientchineseweapons.block.DirtBlock|false
+   @|alanstar/ancientchineseweapons/block/DirtBlock.java|303|308|Block|class|net.minecraft.block.Block|false
+   Method Start: DirtBlock()V
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|324|333|DirtBlock|method|alanstar.ancientchineseweapons.block.DirtBlock|DirtBlock|()V
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|366|374|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|375|381|GROUND|field|net.minecraft.block.material.Material|GROUND
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|398|416|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|417|438|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|439|444|MODID|field|alanstar.ancientchineseweapons.ancientchineseweapons|MODID
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|476|490|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|491|515|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|516|540|TABANCIENTCHINESEWEAPONS|field|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|TABANCIENTCHINESEWEAPONS
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|579|594|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|624|639|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|668|679|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+   Method End: DirtBlock()V
+   Method Start: DirtBlock(Lnet/minecraft/block/material/Material;)V
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|728|736|material|param|alanstar.ancientchineseweapons.block.DirtBlock|DirtBlock|(Lnet/minecraft/block/material/Material;)V|material|0
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|709|718|DirtBlock|method|alanstar.ancientchineseweapons.block.DirtBlock|DirtBlock|(Lnet/minecraft/block/material/Material;)V
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|719|727|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|760|768|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/DirtBlock.java|769|775|GROUND|field|net.minecraft.block.material.Material|GROUND
+   Method End: DirtBlock(Lnet/minecraft/block/material/Material;)V
+Class End  : alanstar.ancientchineseweapons.block.DirtBlock
+endProcessing "alanstar/ancientchineseweapons/block/DirtBlock.java"
+
+startProcessing "alanstar/ancientchineseweapons/block/HardenedClayBrick.java" md5: 4a5548125cb3570f15fcb2cc212fee73
+@|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|8|44|alanstar.ancientchineseweapons.block|package|alanstar.ancientchineseweapons.block|(file)
+Class Start: alanstar.ancientchineseweapons.block.HardenedClayBrick
+   @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|285|302|HardenedClayBrick|class|alanstar.ancientchineseweapons.block.HardenedClayBrick|false
+   @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|311|316|Block|class|net.minecraft.block.Block|false
+   Method Start: HardenedClayBrick()V
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|332|349|HardenedClayBrick|method|alanstar.ancientchineseweapons.block.HardenedClayBrick|HardenedClayBrick|()V
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|384|392|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|393|399|GROUND|field|net.minecraft.block.material.Material|GROUND
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|416|434|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|435|456|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|457|462|MODID|field|alanstar.ancientchineseweapons.ancientchineseweapons|MODID
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|502|516|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|517|541|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|542|566|TABANCIENTCHINESEWEAPONS|field|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|TABANCIENTCHINESEWEAPONS
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|605|620|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|659|674|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|704|715|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+   Method End: HardenedClayBrick()V
+   Method Start: HardenedClayBrick(Lnet/minecraft/block/material/Material;)V
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|772|780|material|param|alanstar.ancientchineseweapons.block.HardenedClayBrick|HardenedClayBrick|(Lnet/minecraft/block/material/Material;)V|material|0
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|745|762|HardenedClayBrick|method|alanstar.ancientchineseweapons.block.HardenedClayBrick|HardenedClayBrick|(Lnet/minecraft/block/material/Material;)V
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|763|771|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|804|812|Material|class|net.minecraft.block.material.Material|false
+      @|alanstar/ancientchineseweapons/block/HardenedClayBrick.java|813|819|GROUND|field|net.minecraft.block.material.Material|GROUND
+   Method End: HardenedClayBrick(Lnet/minecraft/block/material/Material;)V
+Class End  : alanstar.ancientchineseweapons.block.HardenedClayBrick
+endProcessing "alanstar/ancientchineseweapons/block/HardenedClayBrick.java"
+
+startProcessing "alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java" md5: 02ea6a2d6b41b4f4a39823cecf7dd4b6
+@|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|8|50|alanstar.ancientchineseweapons.creativetab|package|alanstar.ancientchineseweapons.creativetab|(file)
+Class Start: alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|221|245|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|254|266|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|295|319|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|295|319|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|320|344|TABANCIENTCHINESEWEAPONS|field|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|TABANCIENTCHINESEWEAPONS|
+   @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|351|375|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+   Method Start: Tabancientchineseweapons()V
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|393|417|Tabancientchineseweapons|method|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|Tabancientchineseweapons|()V
+   Method End: Tabancientchineseweapons()V
+   Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|486|494|Override|class|java.lang.Override|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|507|516|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|517|531|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|561|570|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|571|590|ItemRegistryHandler|class|alanstar.ancientchineseweapons.item.ItemRegistryHandler|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|591|601|DIRT_BLOCK|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BLOCK
+   Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+   Method Start: hasSearchBar()Z
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|619|627|Override|class|java.lang.Override|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|648|660|hasSearchBar|method|net.minecraft.creativetab.CreativeTabs|hasSearchBar|()Z
+   Method End: hasSearchBar()Z
+   Method Start: getSearchbarWidth()I
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|708|716|Override|class|java.lang.Override|false
+      @|alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java|733|750|getSearchbarWidth|method|net.minecraft.creativetab.CreativeTabs|getSearchbarWidth|()I
+   Method End: getSearchbarWidth()I
+Class End  : alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons
+endProcessing "alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java"
+
+startProcessing "alanstar/ancientchineseweapons/event/EventHandler.java" md5: 3a1b13f3483bbdcadf0ec59fce251b0f
+@|alanstar/ancientchineseweapons/event/EventHandler.java|8|44|alanstar.ancientchineseweapons.event|package|alanstar.ancientchineseweapons.event|(file)
+Class Start: alanstar.ancientchineseweapons.event.EventHandler
+   @|alanstar/ancientchineseweapons/event/EventHandler.java|383|401|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|alanstar/ancientchineseweapons/event/EventHandler.java|416|428|EventHandler|class|alanstar.ancientchineseweapons.event.EventHandler|false
+   Method Start: onPlayerJoin(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|510|515|event|param|alanstar.ancientchineseweapons.event.EventHandler|onPlayerJoin|(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|437|451|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|476|488|onPlayerJoin|method|alanstar.ancientchineseweapons.event.EventHandler|onPlayerJoin|(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|489|509|EntityJoinWorldEvent|class|net.minecraftforge.event.entity.EntityJoinWorldEvent|false
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|533|539|Entity|class|net.minecraft.entity.Entity|false
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|549|554|event|param|alanstar.ancientchineseweapons.event.EventHandler|onPlayerJoin|(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|555|564|getEntity|method|net.minecraftforge.event.entity.EntityEvent|getEntity|()Lnet/minecraft/entity/Entity;
+      @|alanstar/ancientchineseweapons/event/EventHandler.java|598|610|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+   Method End: onPlayerJoin(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+Class End  : alanstar.ancientchineseweapons.event.EventHandler
+endProcessing "alanstar/ancientchineseweapons/event/EventHandler.java"
+
+startProcessing "alanstar/ancientchineseweapons/item/ItemDirtBall.java" md5: 9129b3f47e218f8a1166041cc6d5f559
+@|alanstar/ancientchineseweapons/item/ItemDirtBall.java|8|43|alanstar.ancientchineseweapons.item|package|alanstar.ancientchineseweapons.item|(file)
+Class Start: alanstar.ancientchineseweapons.item.ItemDirtBall
+   @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|235|247|ItemDirtBall|class|alanstar.ancientchineseweapons.item.ItemDirtBall|false
+   @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|256|260|Item|class|net.minecraft.item.Item|false
+   Method Start: ItemDirtBall()V
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|276|288|ItemDirtBall|method|alanstar.ancientchineseweapons.item.ItemDirtBall|ItemDirtBall|()V
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|312|330|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|331|352|ancientchineseweapons|class|alanstar.ancientchineseweapons.ancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|353|358|MODID|field|alanstar.ancientchineseweapons.ancientchineseweapons|MODID
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|389|403|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|404|428|Tabancientchineseweapons|class|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|false
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|429|453|TABANCIENTCHINESEWEAPONS|field|alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons|TABANCIENTCHINESEWEAPONS
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|470|485|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|alanstar/ancientchineseweapons/item/ItemDirtBall.java|514|529|setMaxStackSize|method|net.minecraft.item.Item|setMaxStackSize|(I)Lnet/minecraft/item/Item;
+   Method End: ItemDirtBall()V
+Class End  : alanstar.ancientchineseweapons.item.ItemDirtBall
+endProcessing "alanstar/ancientchineseweapons/item/ItemDirtBall.java"
+
+startProcessing "alanstar/ancientchineseweapons/item/ItemRegistryHandler.java" md5: e372572cbfac9baba41ee8ff714ebf75
+@|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|8|43|alanstar.ancientchineseweapons.item|package|alanstar.ancientchineseweapons.item|(file)
+Class Start: alanstar.ancientchineseweapons.item.ItemRegistryHandler
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|717|735|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|750|769|ItemRegistryHandler|class|alanstar.ancientchineseweapons.item.ItemRegistryHandler|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|798|810|ItemDirtBall|class|alanstar.ancientchineseweapons.item.ItemDirtBall|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|798|810|ItemDirtBall|class|alanstar.ancientchineseweapons.item.ItemDirtBall|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|811|820|DIRT_BALL|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BALL|
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|827|839|ItemDirtBall|class|alanstar.ancientchineseweapons.item.ItemDirtBall|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|868|877|ItemBlock|class|net.minecraft.item.ItemBlock|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|868|877|ItemBlock|class|net.minecraft.item.ItemBlock|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|878|888|DIRT_BLOCK|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BLOCK|
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|891|907|withRegistryName|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|912|921|ItemBlock|class|net.minecraft.item.ItemBlock|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|922|942|BlockRegistryHandler|class|alanstar.ancientchineseweapons.block.BlockRegistryHandler|false
+   @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|943|953|DIRT_BLOCK|field|alanstar.ancientchineseweapons.block.BlockRegistryHandler|DIRT_BLOCK
+   Method Start: withRegistryName(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1016|1020|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;|item|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|979|988|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|989|1005|withRegistryName|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1006|1015|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1038|1042|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;|item|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1043|1058|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1059|1063|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;|item|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1064|1072|getBlock|method|net.minecraft.item.ItemBlock|getBlock|()Lnet/minecraft/block/Block;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1075|1090|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1111|1115|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|withRegistryName|(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;|item|0
+   Method End: withRegistryName(Lnet/minecraft/item/ItemBlock;)Lnet/minecraft/item/ItemBlock;
+   Method Start: onRegistry(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1197|1202|event|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1132|1146|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1171|1181|onRegistry|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1182|1190|Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1191|1195|Item|class|net.minecraft.item.Item|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1220|1234|IForgeRegistry|class|net.minecraftforge.registries.IForgeRegistry|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1235|1239|Item|class|net.minecraft.item.Item|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1252|1257|event|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|onRegistry|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1258|1269|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1291|1299|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1300|1309|DIRT_BALL|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BALL
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1330|1338|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1339|1349|DIRT_BLOCK|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BLOCK
+   Method End: onRegistry(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerModel(Lnet/minecraft/item/Item;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1431|1435|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1365|1373|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1374|1378|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1379|1385|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1412|1425|registerModel|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1426|1430|Item|class|net.minecraft.item.Item|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1453|1474|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1503|1524|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1525|1529|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1530|1545|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1572|1583|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1584|1614|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1615|1619|item|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V|item|0
+   Method End: registerModel(Lnet/minecraft/item/Item;)V
+   Method Start: onModelRegistry(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1765|1770|event|param|alanstar.ancientchineseweapons.item.ItemRegistryHandler|onModelRegistry|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1663|1677|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1684|1692|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1693|1697|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1698|1704|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1730|1745|onModelRegistry|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|onModelRegistry|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1746|1764|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1788|1801|registerModel|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1802|1811|DIRT_BALL|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BALL
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1823|1836|registerModel|method|alanstar.ancientchineseweapons.item.ItemRegistryHandler|registerModel|(Lnet/minecraft/item/Item;)V
+      @|alanstar/ancientchineseweapons/item/ItemRegistryHandler.java|1837|1847|DIRT_BLOCK|field|alanstar.ancientchineseweapons.item.ItemRegistryHandler|DIRT_BLOCK
+   Method End: onModelRegistry(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+Class End  : alanstar.ancientchineseweapons.item.ItemRegistryHandler
+endProcessing "alanstar/ancientchineseweapons/item/ItemRegistryHandler.java"
+

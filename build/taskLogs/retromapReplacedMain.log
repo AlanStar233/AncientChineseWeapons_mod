@@ -1,0 +1,90 @@
+Processing 8 files
+Start Processing: alanstar/ancientchineseweapons/ancientchineseweapons.java
+Rename field net/minecraft/init/Blocks/DIRT[993,997]::DIRT->field_150346_d
+Import: net.minecraft.init.Blocks
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.Mod.EventHandler
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: org.apache.logging.log4j.Logger
+End  Processing: alanstar/ancientchineseweapons/ancientchineseweapons.java
+
+Start Processing: alanstar/ancientchineseweapons/block/BlockRegistryHandler.java
+Import: net.minecraft.block.Block
+Import: net.minecraftforge.event.RegistryEvent.Register
+Import: net.minecraftforge.fml.common.Mod.EventBusSubscriber
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.registries.IForgeRegistry
+End  Processing: alanstar/ancientchineseweapons/block/BlockRegistryHandler.java
+
+Start Processing: alanstar/ancientchineseweapons/block/DirtBlock.java
+FOUND CONSTR method alanstar/ancientchineseweapons/block/DirtBlock/DirtBlock ()V alanstar/ancientchineseweapons/block/DirtBlock
+Rename field net/minecraft/block/material/Material/GROUND[375,381]::GROUND->field_151578_c
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[406,424]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[479,493]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[670,681]::setHardness->func_149711_c
+FOUND CONSTR method alanstar/ancientchineseweapons/block/DirtBlock/DirtBlock (Lnet/minecraft/block/material/Material;)V alanstar/ancientchineseweapons/block/DirtBlock
+Rename field net/minecraft/block/material/Material/GROUND[773,779]::GROUND->field_151578_c
+Import: alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: alanstar.ancientchineseweapons.ancientchineseweapons
+End  Processing: alanstar/ancientchineseweapons/block/DirtBlock.java
+
+Start Processing: alanstar/ancientchineseweapons/block/HardenedClayBrick.java
+FOUND CONSTR method alanstar/ancientchineseweapons/block/HardenedClayBrick/HardenedClayBrick ()V alanstar/ancientchineseweapons/block/HardenedClayBrick
+Rename field net/minecraft/block/material/Material/GROUND[393,399]::GROUND->field_151578_c
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[424,442]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[505,519]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[706,717]::setHardness->func_149711_c
+FOUND CONSTR method alanstar/ancientchineseweapons/block/HardenedClayBrick/HardenedClayBrick (Lnet/minecraft/block/material/Material;)V alanstar/ancientchineseweapons/block/HardenedClayBrick
+Rename field net/minecraft/block/material/Material/GROUND[817,823]::GROUND->field_151578_c
+Import: alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons
+Import: net.minecraft.block.Block
+Import: net.minecraft.block.material.Material
+Import: alanstar.ancientchineseweapons.ancientchineseweapons
+End  Processing: alanstar/ancientchineseweapons/block/HardenedClayBrick.java
+
+Start Processing: alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java
+FOUND CONSTR method alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons/Tabancientchineseweapons ()V alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[517,531]::getTabIconItem->func_78016_d
+Import: net.minecraft.creativetab.CreativeTabs
+Import: net.minecraft.item.ItemStack
+Import: alanstar.ancientchineseweapons.item.ItemRegistryHandler
+End  Processing: alanstar/ancientchineseweapons/creativetab/Tabancientchineseweapons.java
+
+Start Processing: alanstar/ancientchineseweapons/event/EventHandler.java
+Import: net.minecraft.entity.Entity
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.util.text.TextComponentString
+Import: net.minecraftforge.event.entity.EntityJoinWorldEvent
+Import: net.minecraftforge.fml.common.Mod.EventBusSubscriber
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+End  Processing: alanstar/ancientchineseweapons/event/EventHandler.java
+
+Start Processing: alanstar/ancientchineseweapons/item/ItemDirtBall.java
+FOUND CONSTR method alanstar/ancientchineseweapons/item/ItemDirtBall/ItemDirtBall ()V alanstar/ancientchineseweapons/item/ItemDirtBall
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[312,330]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[383,397]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setMaxStackSize (I)Lnet/minecraft/item/Item;[506,521]::setMaxStackSize->func_77625_d
+Import: alanstar.ancientchineseweapons.creativetab.Tabancientchineseweapons
+Import: net.minecraft.item.Item
+Import: alanstar.ancientchineseweapons.ancientchineseweapons
+End  Processing: alanstar/ancientchineseweapons/item/ItemDirtBall.java
+
+Start Processing: alanstar/ancientchineseweapons/item/ItemRegistryHandler.java
+Rename method net/minecraft/item/ItemBlock/getBlock ()Lnet/minecraft/block/Block;[1064,1072]::getBlock->func_179223_d
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.item.Item
+Import: net.minecraft.item.ItemBlock
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.event.RegistryEvent.Register
+Import: net.minecraftforge.fml.common.Mod.EventBusSubscriber
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.registries.IForgeRegistry
+Import: alanstar.ancientchineseweapons.block.BlockRegistryHandler
+End  Processing: alanstar/ancientchineseweapons/item/ItemRegistryHandler.java
+
